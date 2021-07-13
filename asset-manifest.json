@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://web.rohan-asokan.tech/portfolio/static/css/main.5b6a5e53.chunk.css",
+    "main.js": "https://web.rohan-asokan.tech/portfolio/static/js/main.2c47418c.chunk.js",
+    "main.js.map": "https://web.rohan-asokan.tech/portfolio/static/js/main.2c47418c.chunk.js.map",
+    "runtime-main.js": "https://web.rohan-asokan.tech/portfolio/static/js/runtime-main.dbb9dc26.js",
+    "runtime-main.js.map": "https://web.rohan-asokan.tech/portfolio/static/js/runtime-main.dbb9dc26.js.map",
+    "static/css/2.150d169a.chunk.css": "https://web.rohan-asokan.tech/portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.dfd422b4.chunk.js": "https://web.rohan-asokan.tech/portfolio/static/js/2.dfd422b4.chunk.js",
+    "static/js/2.dfd422b4.chunk.js.map": "https://web.rohan-asokan.tech/portfolio/static/js/2.dfd422b4.chunk.js.map",
+    "static/js/3.ad7b4704.chunk.js": "https://web.rohan-asokan.tech/portfolio/static/js/3.ad7b4704.chunk.js",
+    "static/js/3.ad7b4704.chunk.js.map": "https://web.rohan-asokan.tech/portfolio/static/js/3.ad7b4704.chunk.js.map",
+    "index.html": "https://web.rohan-asokan.tech/portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "https://web.rohan-asokan.tech/portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.5b6a5e53.chunk.css.map": "https://web.rohan-asokan.tech/portfolio/static/css/main.5b6a5e53.chunk.css.map",
+    "static/js/2.dfd422b4.chunk.js.LICENSE.txt": "https://web.rohan-asokan.tech/portfolio/static/js/2.dfd422b4.chunk.js.LICENSE.txt",
+    "static/media/img1.b6d3a9b6.jpg": "https://web.rohan-asokan.tech/portfolio/static/media/img1.b6d3a9b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb9dc26.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.dfd422b4.chunk.js",
+    "static/css/main.5b6a5e53.chunk.css",
+    "static/js/main.2c47418c.chunk.js"
+  ]
+}
